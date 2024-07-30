@@ -1,0 +1,3 @@
+[submodule "newgitlearn"]
+	path = newgitlearn
+	url = https://github.com/vadivelsparkout/newgitlearn.git
